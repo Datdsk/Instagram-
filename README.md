@@ -48,11 +48,11 @@ pipenv install
 ## Help
 
 ```
-usage: instagram.py [-h] [-u USERNAME] [-p PASSLIST] [-px PROXYLIST] [--prune PRUNE] [--stats] [-nc] [-m MODE]
+usage: instagram.py [-h] [-u eu_fdudu19] [-p PASSLIST] [-px PROXYLIST] [--prune PRUNE] [--stats] [-nc] [-m MODE]
 
 optional arguments:
   -h, --help            show this help message and exit
-  -u USERNAME, --username USERNAME
+  -u USERNAME, --username eu_fdudu19
                         email or username
   -p PASSLIST, --passlist PASSLIST
                         password list
